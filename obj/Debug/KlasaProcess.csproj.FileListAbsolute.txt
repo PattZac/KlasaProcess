@@ -1,0 +1,10 @@
+C:\Users\korisnik\source\repos\KlasaProcess\bin\Debug\KlasaProcess.exe.config
+C:\Users\korisnik\source\repos\KlasaProcess\bin\Debug\KlasaProcess.exe
+C:\Users\korisnik\source\repos\KlasaProcess\bin\Debug\KlasaProcess.pdb
+C:\Users\korisnik\source\repos\KlasaProcess\obj\Debug\KlasaProcess.csproj.AssemblyReference.cache
+C:\Users\korisnik\source\repos\KlasaProcess\obj\Debug\KlasaProcess.Form1.resources
+C:\Users\korisnik\source\repos\KlasaProcess\obj\Debug\KlasaProcess.Properties.Resources.resources
+C:\Users\korisnik\source\repos\KlasaProcess\obj\Debug\KlasaProcess.csproj.GenerateResource.cache
+C:\Users\korisnik\source\repos\KlasaProcess\obj\Debug\KlasaProcess.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\source\repos\KlasaProcess\obj\Debug\KlasaProcess.exe
+C:\Users\korisnik\source\repos\KlasaProcess\obj\Debug\KlasaProcess.pdb
